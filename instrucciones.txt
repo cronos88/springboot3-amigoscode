@@ -1,3 +1,8 @@
 https://www.youtube.com/watch?v=-mwpoE0x0JQ&t=1s
 
 QUEDE EN MINUTO 18:43
+
+SPRING WEB MVC
+==============
+Las anotaciones @Controller, @RestController y @GetMapping hacen parte de spring Web MVC.
+
