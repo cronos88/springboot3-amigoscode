@@ -1,0 +1,7 @@
+#configure TomCat
+server:
+  port: 8080 #default 8080
+
+spring:
+  main:
+    web-application-type: servlet  #default servlet
